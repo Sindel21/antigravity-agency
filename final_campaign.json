@@ -1,0 +1,32 @@
+[
+  {
+    "company": "Střechy Praha s.r.o.",
+    "email": {
+      "status": "ready_to_send",
+      "subject": "Technický stav webu Střechy Praha s.r.o. – nalezené chyby",
+      "email_body": "Dobrý den,\n\npři analýze firem v oboru jsem narazil na váš web https://strechy-praha.cz. Jako specialistu na webový vývoj mě zaujalo, že se potýkáte s poměrně kritickým zpomalením na mobilních zařízeních – konkrétně se hlavní obsah načítá 5.2 s.\n\nPodle aktuálních dat Googlu je vaše skóre výkonu pouze 45/100. To v praxi znamená, že vás Google může odsouvat na nižší pozice za konkurenci, která má web optimalizovaný.\n\nPřipravil jsem pro vás stručný seznam 3 věcí, které by vaši rychlost okamžitě zdvojnásobily. Pokud by vás to zajímalo, rád vám je pošlu nebo se o nich krátce pobavíme po telefonu.\n\nS pozdravem,\nAntigravity Agency",
+      "phone_number": "+420 123 456 789",
+      "reasoning": "Seniorní obchodní konzultant (CZ). Důraz na konkrétní data a ztrátu pozic."
+    }
+  },
+  {
+    "company": "Okna & Dveře Expert",
+    "email": {
+      "status": "ready_to_send",
+      "subject": "Technický stav webu Okna & Dveře Expert – nalezené chyby",
+      "email_body": "Dobrý den,\n\npři analýze firem v oboru jsem narazil na váš web https://okna-expert.cz. Jako specialistu na webový vývoj mě zaujalo, že se potýkáte s poměrně kritickým zpomalením na mobilních zařízeních – konkrétně se hlavní obsah načítá 5.2 s.\n\nPodle aktuálních dat Googlu je vaše skóre výkonu pouze 45/100. To v praxi znamená, že vás Google může odsouvat na nižší pozice za konkurenci, která má web optimalizovaný.\n\nPřipravil jsem pro vás stručný seznam 3 věcí, které by vaši rychlost okamžitě zdvojnásobily. Pokud by vás to zajímalo, rád vám je pošlu nebo se o nich krátce pobavíme po telefonu.\n\nS pozdravem,\nAntigravity Agency",
+      "phone_number": "+420 987 654 321",
+      "reasoning": "Seniorní obchodní konzultant (CZ). Důraz na konkrétní data a ztrátu pozic."
+    }
+  },
+  {
+    "company": "Building Pros NYC",
+    "email": {
+      "status": "ready_to_send",
+      "subject": "Technical health of Building Pros NYC - identified issues",
+      "email_body": "Hello,\n\nWhile analyzing companies in your industry, I came across your website https://buildingprosnyc.com. As a web development specialist, I noticed that you are struggling with a critical slowdown on mobile devices—specifically, the main content takes 5.2s to load.\n\nAccording to current Google data, your performance score is only 45/100. In practice, this means Google may be pushing you down below competitors who have optimized websites.\n\nI have prepared a brief list of 3 things that would immediately double your speed. If you'd be interested, I'd be happy to send them over or have a quick chat on the phone.\n\nBest regards,\nAntigravity Agency",
+      "phone_number": "+1 212-555-0199",
+      "reasoning": "Senior Consultant tone (US). Specific data points (PSI) and 'fear of loss' argument."
+    }
+  }
+]

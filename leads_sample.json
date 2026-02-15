@@ -1,0 +1,29 @@
+[
+    {
+        "company_name": "TechFlow Solutions",
+        "url": "https://techflow.io",
+        "location": "USA",
+        "performance_score": 42,
+        "lcp_value": 4.8,
+        "detected_tech": "WordPress, jQuery, older PHP version",
+        "phone_number": "+1 555-0123"
+    },
+    {
+        "company_name": "Stavebniny Novák",
+        "url": "https://stavebniny-novak.cz",
+        "location": "CZ",
+        "performance_score": 58,
+        "lcp_value": 5.2,
+        "detected_tech": "Joomla, MooTools",
+        "phone_number": "+420 777 888 999"
+    },
+    {
+        "company_name": "Modern SaaS Inc",
+        "url": "https://modernsaas.com",
+        "location": "USA",
+        "performance_score": 92,
+        "lcp_value": 1.2,
+        "detected_tech": "Next.js, Tailwind, Vercel",
+        "phone_number": "+1 555-9999"
+    }
+]
