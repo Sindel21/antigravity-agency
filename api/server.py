@@ -30,7 +30,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-LEADS_FILE = os.path.join(os.path.dirname(__file__), "..", "leads_discovered.json")
+LEADS_FILE = os.path.join(os.path.dirname(__file__), "leads_discovered.json")
 
 class SearchRequest(BaseModel):
     niche: str
@@ -117,7 +117,7 @@ async def run_auto_pilot():
 
 @app.get("/pilot-status")
 async def get_pilot_status():
-    status_file = os.path.join(os.path.dirname(__file__), "..", "harvester_status.json")
+    status_file = os.path.join(os.path.dirname(__file__), "harvester_status.json")
     if not os.path.exists(status_file):
         return {"status": "idle"}
     with open(status_file, "r") as f:
